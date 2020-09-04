@@ -1,2 +1,2 @@
-# DFC605-2020S
-Basic Artificial Intelligence Theory
+# DFE604-2020F
+Artificial Intelligence Theory and Applications.
