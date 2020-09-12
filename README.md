@@ -19,4 +19,5 @@ Artificial Intelligence Theory and Applications.
 | 13            | Hosup KIM    | CS               | Hello World!!     |
 | 14            | Seongsoo Jang    | CS               | Hello World!!     |
 | 15            | Jongwon Son      | Econ              | Hello World!!     |
+| 16            | kwanghoon Yoo      | Econ              | Hello World!!     |
 
