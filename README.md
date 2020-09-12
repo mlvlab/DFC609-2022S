@@ -4,5 +4,6 @@ Artificial Intelligence Theory and Applications.
 # Contributors
 | No            | Name           | Department/Major | Message           |
 | ------------- |:--------------:| ----------------:|------------------:|
-| 1             | Hyunwoo J. Kim | CS               | Hello World!      |
-| 2             | Sanghak Lee    | CS               | Hello World!!     |
+| 1             | Hyunwoo J. Kim     | CS               | Hello World!      |
+| 2             | Sanghak Lee          | CS               | Hello World!!     |
+| 3             | Youngmin Cho       | CS               | Hello World!!     |
