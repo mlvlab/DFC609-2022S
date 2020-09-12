@@ -38,4 +38,4 @@ Artificial Intelligence Theory and Applications.
 | 16            | YeongRong Lee   | MIS              | Hello World!!     |
 | 17            | Minjikim      | Math              | Hello World!!     |
 | 18            | Namhoon Kim      | CS              | Hello World!!     |
->>>>>>> b37eafdaaa658b46091f4e9d8f0b5ec56f7f3cfc
+| 19            | HakJin LEE      | Eng              | Hello World!!     |
