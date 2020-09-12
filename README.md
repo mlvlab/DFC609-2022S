@@ -4,7 +4,6 @@ Artificial Intelligence Theory and Applications.
 # Contributors
 | No            | Name           | Department/Major | Message           |
 | ------------- |:--------------:| ----------------:|------------------:|
-<<<<<<< HEAD
 | 1             | Hyunwoo J. Kim     | CS               | Hello World!      |
 | 2             | Sanghak Lee          | CS               | Hello World!!     |
 | 3             | Kyoungin Kwon  | CS               | Hello World!!     |
@@ -23,4 +22,6 @@ Artificial Intelligence Theory and Applications.
 | 16            | YeongRong Lee   | MIS              | Hello World!!     |
 | 17            | Minjikim      | Math              | Hello World!!     |
 | 18            | Namhoon Kim      | CS              | Hello World!!     |
-| 19            | Youngmin Cho      | CS              | Fighting!          |
+| 19            | Joo Yoondeok      | EE              | Hello World!!     |
+| 20            | Sungjin Hong      | CS              | Hello World!!     |
+| 21            | Youngmin Cho      | CS              | Hello World!!     |
