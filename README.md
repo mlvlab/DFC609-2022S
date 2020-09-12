@@ -18,6 +18,7 @@ Artificial Intelligence Theory and Applications.
 | 12             | Hyukmo Ahn    | CS               | Hello World!!     |
 | 13            | Hosup KIM    | CS               | Hello World!!     |
 | 14            | Seongsoo Jang    | CS               | Hello World!!     |
+<<<<<<< HEAD
 | 15            | YeongRong Lee    | MIS               | Hello World!!     |
 | 16             | Hyukmo Ahn     | CS               | Hello World!!     |
 | 17             | Junghunh CHA   | MGMT          | Hello World!!     |
@@ -33,3 +34,8 @@ Artificial Intelligence Theory and Applications.
 | 27            | YeongRong Lee   | MIS              | Hello World!!     |
 | 28            | Minjikim      | Math              | Hello World!!     |
 | 29            | HakJinLee      | English              | Hello World!!     |
+| 15            | Jongwon Son      | Econ              | Hello World!!     |
+| 16            | YeongRong Lee   | MIS              | Hello World!!     |
+| 17            | Minjikim      | Math              | Hello World!!     |
+| 18            | Namhoon Kim      | CS              | Hello World!!     |
+>>>>>>> b37eafdaaa658b46091f4e9d8f0b5ec56f7f3cfc
