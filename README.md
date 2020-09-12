@@ -31,5 +31,6 @@ Artificial Intelligence Theory and Applications.
 | 14            | Seongsoo Jang    | CS               | Hello World!!     |
 | 15            | Jongwon Son      | Econ              | Hello World!!     |
 | 16            | YeongRong Lee   | MIS              | Hello World!!     |
-| 17            | Heewon Seo   | CS              | Hello World!!     |
+| 17            | Minjikim      | Math              | Hello World!!     |
+| 18            | Heewon Seo   | BUSINESS          | Hello World!!     |
 
