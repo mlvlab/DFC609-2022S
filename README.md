@@ -26,3 +26,4 @@ Artificial Intelligence Theory and Applications.
 | 20            | Sungjin Hong      | CS              | Hello World!!     |
 | 21            | Youngmin Cho      | CS              | Hello World!!     |
 | 22            | Taekjoo Lee      | STAT              | Hello World!!     |
+| 23            | JaeJeun Jeon      | CS                | Hello World!!     |
