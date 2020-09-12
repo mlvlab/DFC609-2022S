@@ -13,5 +13,5 @@ Artificial Intelligence Theory and Applications.
 | 4             | SeongHo Lee    | CS               | Hi !!                 |
 | 5             | Kyoungin Kwon    | CS               | Hello World!!     |
 | 6             | Unggi KIM    | CS               | Hello World!!     |
-| 7             | Hyunguk KIM    | CS               | Hello World!!     |
+| 7             | Hyunguk KIM    | Economics               | Hello World!!     |
 >>>>>>> d220f31358cec94b5a254192d566bd5eb3b5f98a
