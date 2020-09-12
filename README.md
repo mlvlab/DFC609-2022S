@@ -6,7 +6,8 @@ Artificial Intelligence Theory and Applications.
 | ------------- |:--------------:| ----------------:|------------------:|
 | 1             | Hyunwoo J. Kim | CS               | Hello World!      |
 | 2             | Sanghak Lee    | CS               | Hello World!!     |
-| 8             | Junghunh CHA | MGMT          | Hello World!!     |
-| 3             | SeongHo Lee    | CS               | Hi !!                 |
-| 3             | Kyoungin Kwon    | CS               | Hello World!!     |
+| 3             | Junghunh CHA | MGMT          | Hello World!!     |
+| 4             | SeongHo Lee    | CS               | Hi !!                 |
+| 5             | Kyoungin Kwon    | CS               | Hello World!!     |
+| 6             | Unggi KIM    | CS               | Hello World!!     |
 
