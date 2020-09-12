@@ -8,3 +8,4 @@ Artificial Intelligence Theory and Applications.
 | 2             | Sanghak Lee    | CS               | Hello World!!     |
 | 3             | Kyoungin Kwon  | CS               | Hello World!!     |
 | 4             | kellyminjikim  | math             | Hello World!!     |
+| 5             | SeongHo Lee    | CS               | Hi !!                 |
