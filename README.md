@@ -6,12 +6,8 @@ Artificial Intelligence Theory and Applications.
 | ------------- |:--------------:| ----------------:|------------------:|
 | 1             | Hyunwoo J. Kim | CS               | Hello World!      |
 | 2             | Sanghak Lee    | CS               | Hello World!!     |
-<<<<<<< HEAD
-| 15            | Heewon Seo    | CS               | Hello World!!     |
-=======
 | 3             | Kyoungin Kwon  | CS               | Hello World!!     |
 | 4             | Kwanhyeong Cha | MA               | Hello World!      |
-<<<<<<< HEAD
 | 3             | Hyukmo Ahn    | CS               | Hello World!!     |
 | 4             | Junghunh CHA | MGMT          | Hello World!!     |
 | 5             | SeongHo Lee    | CS               | Hi !!                 |
@@ -23,7 +19,6 @@ Artificial Intelligence Theory and Applications.
 | 11            | Hosup KIM    | CS               | Hello World!!     |
 | 12            | Seongsoo Jang    | CS               | Hello World!!     |
 | 13            | YeongRong Lee    | MIS               | Hello World!!     |
-=======
 | 5             | Hyukmo Ahn     | CS               | Hello World!!     |
 | 6             | Junghunh CHA   | MGMT          | Hello World!!     |
 | 7             | SeongHo Lee    | CS               | Hi !!                 |
@@ -34,11 +29,7 @@ Artificial Intelligence Theory and Applications.
 | 12            | Hyukmo Ahn    | CS               | Hello World!!     |
 | 13            | Hosup KIM    | CS               | Hello World!!     |
 | 14            | Seongsoo Jang    | CS               | Hello World!!     |
-<<<<<<< HEAD
->>>>>>> 13fcb2421cab3447f44f91e7501fb93792c699e8
-=======
 | 15            | Jongwon Son      | Econ              | Hello World!!     |
 | 16            | YeongRong Lee   | MIS              | Hello World!!     |
+| 17            | Heewon Seo   | CS              | Hello World!!     |
 
->>>>>>> c3083798601e97d66ba4f693548def16a45b7c41
->>>>>>> 31930f4433ce00e775dfbbd9d781678b5929e1d5
