@@ -6,3 +6,4 @@ Artificial Intelligence Theory and Applications.
 | ------------- |:--------------:| ----------------:|------------------:|
 | 1             | Hyunwoo J. Kim | CS               | Hello World!      |
 | 2             | Sanghak Lee    | CS               | Hello World!!     |
+| 10             | Hyukmo Ahn    | CS               | Hello World!!     |
