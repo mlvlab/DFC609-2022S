@@ -34,3 +34,4 @@ Artificial Intelligence Theory and Applications.
 | 15            | Jongwon Son      | Econ              | Hello World!!     |
 | 16            | YeongRong Lee   | MIS              | Hello World!!     |
 | 17            | Minjikim      | Math              | Hello World!!     |
+| 18            | Namhoon Kim      | CS              | Hello World!!     |
