@@ -31,10 +31,6 @@ Artificial Intelligence Theory and Applications.
 | 12            | Hyukmo Ahn    | CS               | Hello World!!     |
 | 13            | Hosup KIM    | CS               | Hello World!!     |
 | 14            | Seongsoo Jang    | CS               | Hello World!!     |
-<<<<<<< HEAD
->>>>>>> 13fcb2421cab3447f44f91e7501fb93792c699e8
-=======
 | 15            | Jongwon Son      | Econ              | Hello World!!     |
 | 16            | YeongRong Lee   | MIS              | Hello World!!     |
-
->>>>>>> c3083798601e97d66ba4f693548def16a45b7c41
+| 17            | Minjikim      | Math              | Hello World!!     |
