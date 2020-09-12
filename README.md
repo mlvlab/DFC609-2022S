@@ -15,3 +15,4 @@ Artificial Intelligence Theory and Applications.
 | 9             | NEWLINE    | NEWLINE              | NEWLINE    |
 | 10             | Hyukmo Ahn    | CS               | Hello World!!     |
 | 11            | Hosup KIM    | CS               | Hello World!!     |
+| 12            | Seongsoo Jang    | CS               | Hello World!!     |
