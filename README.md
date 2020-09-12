@@ -12,5 +12,6 @@ Artificial Intelligence Theory and Applications.
 | 6             | Kyoungin Kwon    | CS               | Hello World!!     |
 | 7             | Unggi KIM    | CS               | Hello World!!     |
 | 8             | Hyunguk KIM    | CS               | Hello World!!     |
-
 | 9             | NEWLINE    | NEWLINE              | NEWLINE    |
+| 10             | Hyukmo Ahn    | CS               | Hello World!!     |
+| 11            | Hosup KIM    | CS               | Hello World!!     |
