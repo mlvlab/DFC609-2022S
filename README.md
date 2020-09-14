@@ -50,3 +50,4 @@ Artificial Intelligence Theory and Applications.
 | 44            | Taekjoo Lee      | STAT              | Hello World!!     |
 | 45            | Sangjun. LEE     | CS               | Hello World!      |
 | 46            | Seongil Park     | CS               | Hello World!      |
+| 47            | Yangsu Lee      | IE               | Hello World!      |
