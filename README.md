@@ -50,4 +50,5 @@ Artificial Intelligence Theory and Applications.
 | 45            | Sangjun. LEE     | CS               | Hello World!      |
 | 46            | Seongil Park     | CS               | Hello World!      |
 | 47            | Yangsu Lee      | IE               | Hello World!      |
+| 47            | Jiheon Lee      | PA               | Hello Wolf!      |
 
