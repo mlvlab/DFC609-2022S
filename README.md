@@ -8,11 +8,6 @@ Artificial Intelligence Theory and Applications.
 | 2             | Sanghak Lee          | CS               | Hello World!!     |
 | 3             | Kyoungin Kwon  | CS               | Hello World!!     |
 | 4             | Kwanhyeong Cha | MA               | Hello World!      |
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 8870cba8ea5e5be1282e74092946e3629fb325c7
 | 3             | Hyukmo Ahn    | CS               | Hello World!!     |
 | 4             | Junghunh CHA | MGMT          | Hello World!!     |
 | 5             | SeongHo Lee    | CS               | Hi !!                 |
@@ -38,7 +33,6 @@ Artificial Intelligence Theory and Applications.
 | 16            | YeongRong Lee   | MIS              | Hello World!!     |
 | 17            | Minjikim      | Math              | Hello World!!     |
 | 18            | Namhoon Kim      | CS              | Hello World!!     |
-<<<<<<< HEAD
 | 19            | Heewon Seo      | Business              | Hello World!!     |
 =======
 | 19            | sanggom          | CS              | Hello     |
@@ -90,5 +84,3 @@ Artificial Intelligence Theory and Applications.
 | 49            | sanggom        | CB                | Hello World!!     |
 | 50            | Heewon Seo        | Business                | Hello World!!     |
 | 51            | SeongHo Lee        | CS               | Hello World!!     |
->>>>>>> bfcefcff2c9adc8836ce67437c7918ba87054cdb
->>>>>>> 8870cba8ea5e5be1282e74092946e3629fb325c7
