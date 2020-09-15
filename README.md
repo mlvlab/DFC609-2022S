@@ -5,7 +5,7 @@ Artificial Intelligence Theory and Applications.
 | No            | Name           | Department/Major | Message           |
 | ------------- |:--------------:| ----------------:|------------------:|
 | 1             | Hyunwoo J. Kim     | CS               | Hello World!      |
-| 2             | Sanghak Lee          | CS               | Hello World!!     |
+| 2             | Sanghak Lee          | CS               | How r u ?     |
 | 3             | Kyoungin Kwon  | CS               | Hello World!!     |
 | 4             | Kwanhyeong Cha | MA               | Hello World!      |
 | 3             | Hyukmo Ahn    | CS               | Hello World!!     |
