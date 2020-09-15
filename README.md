@@ -89,5 +89,6 @@ Artificial Intelligence Theory and Applications.
 | 48            | JaeJeun Jeon   | CS                | Hello World!!     |
 | 49            | sanggom        | CB                | Hello World!!     |
 | 50            | Heewon Seo        | Business                | Hello World!!     |
+| 51            | SeongHo Lee        | CS               | Hello World!!     |
 >>>>>>> bfcefcff2c9adc8836ce67437c7918ba87054cdb
 >>>>>>> 8870cba8ea5e5be1282e74092946e3629fb325c7
