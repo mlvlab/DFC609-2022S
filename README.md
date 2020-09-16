@@ -32,4 +32,3 @@ Artificial Intelligence Theory and Applications.
 | 26            | Jiheon Lee     | PA               | Hello Wolf!       |
 | 27            | JaeJeun Jeon   | CS               | Hello World!!     |
 | 28            | Ahram LEE      | CE               | Hello World!      |
-
