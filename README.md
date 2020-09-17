@@ -1,6 +1,10 @@
 # DFE604-2020F
 Artificial Intelligence Theory and Applications.
 
+# Contents
+[1. Data Loading Loan Data from Kaggle](https://github.com/mlvlab/DFE604-2020F/blob/master/1_Data_Loading_Loan_Data_from_Kaggle.ipynb)
+
+
 # Contributors
 | No            | Name           | Department/Major | Message           |
 | ------------- |:--------------:| ----------------:|------------------:|
