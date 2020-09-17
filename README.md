@@ -9,13 +9,6 @@ Artificial Intelligence Theory and Applications.
 | No            | Name           | Department/Major | Message           |
 | ------------- |:--------------:| ----------------:|------------------:|
 | 1             | Hyunwoo J. Kim | CS               | Hello World!      |
-<<<<<<< HEAD
-<<<<<<< HEAD
-| 18            | Yoonheeseo | STAT               | Hello World!      |
-=======
-| 2             | Sanghak Lee    | CS               | Hello World!!     |
->>>>>>> 8f75f5e968c26b05a510cc8c4a3974ef8c344ec6
-=======
 | 2             | Sanghak Lee    | CS               | How r u ?         |
 | 3             | Kyoungin Kwon  | CS               | Hello World!!     |
 | 4             | Kwanhyeong Cha | MA               | Hello World!      |
@@ -43,4 +36,4 @@ Artificial Intelligence Theory and Applications.
 | 26            | Jiheon Lee     | PA               | Hello Wolf!       |
 | 27            | JaeJeun Jeon   | CS               | Hello World!!     |
 | 28            | Ahram LEE      | CE               | Hello World!      |
->>>>>>> 03871bacaed91a20b6bc04f2e89ef65a8b60f2a6
+| 29            | Yoonheeseo      | STAT           | Hello World!      |
