@@ -38,3 +38,5 @@ Artificial Intelligence Theory and Applications.
 | 27            | JaeJeun Jeon   | CS               | Hello World!!     |
 | 28            | Ahram LEE      | CE               | Hello World!      |
 | 29            | Yoonheeseo      | STAT           | Hello World!      |
+| 99            | Chongkeun Paik | CS               | test      |
+
