@@ -4,6 +4,7 @@ Artificial Intelligence Theory and Applications.
 # Contents
 [1. Data Loading Loan Data from Kaggle](https://github.com/mlvlab/DFE604-2020F/blob/master/1_Data_Loading_Loan_Data_from_Kaggle.ipynb)  
 [2. Naive_Bayes_Classification](https://github.com/mlvlab/DFE604-2020F/blob/master/2_Naive_Bayes_Classification.ipynb)
+[3. Regression (Linear regression, Kernel density estimation](https://github.com/mlvlab/DFE604-2020F/blob/master/3.%20Regression.ipynb)
 
 
 # Contributors
@@ -37,8 +38,7 @@ Artificial Intelligence Theory and Applications.
 | 26            | Jiheon Lee     | PA               | Hello Wolf!       |
 | 27            | JaeJeun Jeon   | CS               | Hello World!!     |
 | 28            | Ahram LEE      | CE               | Hello World!      |
-| 29            | Yoonheeseo      | STAT           | Hello World!      |
-| 30            | kwanghoon Yoo      | Econ              | Hello World!!     |
-| 99            | Chongkeun Paik | CS               | test      |
+| 29            | Yoonheeseo     | STAT             | Hello World!      |
+| 30            | kwanghoon Yoo  | Econ             | Hello World!!     |
 
 
