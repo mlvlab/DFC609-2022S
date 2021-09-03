@@ -1,4 +1,4 @@
-# DFE604-2020F
+# DFE604-2021F
 Artificial Intelligence Theory and Applications.
 
 # Contents
