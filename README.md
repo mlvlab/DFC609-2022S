@@ -17,5 +17,6 @@ Artificial Intelligence Theory and Applications.
 | No            | Name           | Department/Major | Message           |
 | ------------- |:--------------:| ----------------:|------------------:|
 | 1             | Hyunwoo J. Kim | CS               | Hello World!      |
+| 1             | june                           | CS               | Hello World!      |
 
 
