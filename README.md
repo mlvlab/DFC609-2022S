@@ -18,5 +18,6 @@ Artificial Intelligence Theory and Applications.
 | ------------- |:--------------:| ----------------:|------------------:|
 | 1             | Hyunwoo J. Kim | CS               | Hello World!      |
 | 2             | Jeontae Kim    | Economics        | Hello World!      |
+| 365           | Shinhan Kim    | Shc              | Hello World!!     |
 
 
