@@ -16,6 +16,6 @@ Artificial Intelligence Theory and Applications.
 [Past Classes](https://github.com/mlvlab/DFE604-2020F/blob/master/PastClasses.md)
 | No            | Name           | Department/Major | Message           |
 | ------------- |:--------------:| ----------------:|------------------:|
-| 1             | Hyunwoo J. Kim | CS               | Hello World!      |
+| 1             | mi yeon Park  |     CS           | Hello World!      |
 
 
