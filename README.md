@@ -20,4 +20,3 @@ Artificial Intelligence Theory and Applications.
 | 2             | Jiwon Jeon | Tourism               | Hello World!      |
 
 
-
