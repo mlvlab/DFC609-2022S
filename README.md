@@ -18,5 +18,4 @@ Artificial Intelligence Theory and Applications.
 | ------------- |:--------------:| ----------------:|------------------:|
 | 1             | Hyunwoo J. Kim | CS               | Hello World!      |
 | 2             | Sungkyu Jung    | BE               | Hello World!      |
-| 3             | Sungkyu Jung    | BE(new)        | Hello World!      |
 
