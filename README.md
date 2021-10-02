@@ -18,5 +18,6 @@ Artificial Intelligence Theory and Applications.
 | ------------- |:--------------:| ----------------:|------------------:|
 | 1             | Hyunwoo J. Kim | CS               | Hello World!      |
 | 2             | Yeseul Ko         | Economy       | Hello World!      |
+| 3             | Yeseul Ko2       | Economy       | Hello World!      |
 
 
