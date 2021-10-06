@@ -16,6 +16,6 @@ Artificial Intelligence Theory and Applications.
 [Past Classes](https://github.com/mlvlab/DFE604-2020F/blob/master/PastClasses.md)
 | No            | Name           | Department/Major | Message           |
 | ------------- |:--------------:| ----------------:|------------------:|
-| 1             | mi yeon Park   |     Business     | Hello World!      |
+| 4             | mi yeon Park   |     Business     | Hello World!      |
 
 
