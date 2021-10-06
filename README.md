@@ -9,7 +9,7 @@ Artificial Intelligence Theory and Applications.
 [5. Decision_Tree](https://github.com/mlvlab/DFE604-2020F/blob/master/5_Decision_Tree.ipynb)  
 [6. Clustering](https://github.com/mlvlab/DFE604-2020F/blob/master/6_Clustering.ipynb)  
 
-
+s
 
 
 # Contributors 
