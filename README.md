@@ -20,3 +20,4 @@ Artificial Intelligence Theory and Applications.
 | 2             | SungHyun Cho   | CS               | Hello World!      |
 | 3         		| Seongyeon Yoo	 | CS		            | Hello World!	    |
 | 4             | Jihyun Lee     | IE               | Hello (21.09.25)  |
+| 5             | Jiwon Jeon     | Tourism          | Hello World!      |
