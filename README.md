@@ -18,3 +18,4 @@ Artificial Intelligence Theory and Applications.
 | ------------- |:--------------:| ----------------:|------------------:|
 | 1             | Hyunwoo J. Kim | CS               | Hello World!      |
 | 2             | SungHyun Cho   | CS               | Hello World!      |
+| 3         		| Seongyeon Yoo	 | CS		            | Hello World!	    |
