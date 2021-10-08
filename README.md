@@ -35,3 +35,4 @@ Artificial Intelligence Theory and Applications.
 | 17            | Youngin Lee     | I.E              | Hello World!      |
 | 18            | Jeontae Kim     | Economics        | Hello World!      |
 | 19            | Sungwoo Lee     | Statistics       | Hello World!      |
+| 20            | Sangyub Kang    | STAT             | Hello World!      |
