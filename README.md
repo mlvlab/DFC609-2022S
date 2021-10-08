@@ -40,3 +40,4 @@ Artificial Intelligence Theory and Applications.
 | 22            | Eunhye. Park	  | ICE              | Hello World!      |
 | 23            | Youngsu Ahn     | Mathematics      | Hello World!      |
 | 24            | gibok Ahn       | Security/law     | Hello World!      |
+| 25            | mi yeon Park    | Business         | Hello World!      |
