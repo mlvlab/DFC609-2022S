@@ -21,3 +21,4 @@ Artificial Intelligence Theory and Applications.
 | 3         		| Seongyeon Yoo	 | CS		            | Hello World!	    |
 | 4             | Jihyun Lee     | IE               | Hello (21.09.25)  |
 | 5             | Jiwon Jeon     | Tourism          | Hello World!      |
+| 6             | Chunghwan. Kim | CS               | Hello World!      |
