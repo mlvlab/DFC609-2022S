@@ -28,3 +28,5 @@ Artificial Intelligence Theory and Applications.
 | 10            | Sohee Moon     | CS               | Hello World!      |
 | 11            | Haewon Lee	   | Accounting       | Hello World!      |
 | 12            | Hyemi Jang     | Statistics       | Hello World!      |
+| 13            | Yeseul Ko      | Economy          | Hello World!      |
+ 
