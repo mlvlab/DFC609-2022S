@@ -23,3 +23,4 @@ Artificial Intelligence Theory and Applications.
 | 5             | Jiwon Jeon     | Tourism          | Hello World!      |
 | 6             | Chunghwan. Kim | CS               | Hello World!      |
 | 7             | Sungkyu Jung   | BE               | Hello World!      |
+| 8             | Jeonghwan. Kim | statistics       | Hello World!      |
