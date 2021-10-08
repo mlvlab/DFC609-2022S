@@ -30,3 +30,4 @@ Artificial Intelligence Theory and Applications.
 | 12            | Hyemi Jang     | Statistics       | Hello World!      |
 | 13            | Yeseul Ko      | Economy          | Hello World!      |
 | 14            | Yuntae You     | CS               | Hello World!      |
+| 15            | Namkil Kim     | CS               | Hello World!      |
