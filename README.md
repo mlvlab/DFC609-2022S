@@ -34,3 +34,4 @@ Artificial Intelligence Theory and Applications.
 | 16            |HyunwooJeongMelon| CS               | Hello World!      |
 | 17            | Youngin Lee     | I.E              | Hello World!      |
 | 18            | Jeontae Kim     | Economics        | Hello World!      |
+| 19            | Sungwoo Lee     | Statistics       | Hello World!      |
