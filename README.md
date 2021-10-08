@@ -17,6 +17,8 @@ Artificial Intelligence Theory and Applications.
 | No            | Name           | Department/Major | Message           |
 | ------------- |:--------------:| ----------------:|------------------:|
 | 1             | Hyunwoo J. Kim | CS               | Hello World!      |
-| 2             | Chunghwan. Kim | CS               | Hello World!      |
-
-
+| 2             | SungHyun Cho   | CS               | Hello World!      |
+| 3         		| Seongyeon Yoo	 | CS		            | Hello World!	    |
+| 4             | Jihyun Lee     | IE               | Hello (21.09.25)  |
+| 5             | Jiwon Jeon     | Tourism          | Hello World!      |
+| 6             | Chunghwan. Kim | CS               | Hello World!      |
