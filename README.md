@@ -33,3 +33,4 @@ Artificial Intelligence Theory and Applications.
 | 15            | Namkil Kim      | CS               | Hello World!      |
 | 16            |HyunwooJeongMelon| CS               | Hello World!      |
 | 17            | Youngin Lee     | I.E              | Hello World!      |
+| 18            | Jeontae Kim     | Economics        | Hello World!      |
