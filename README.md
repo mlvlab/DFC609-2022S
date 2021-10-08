@@ -25,3 +25,4 @@ Artificial Intelligence Theory and Applications.
 | 7             | Sungkyu Jung   | BE               | Hello World!      |
 | 8             | Jeonghwan. Kim | statistics       | Hello World!      |
 | 9             | Hyunjun Nam    | Business Admin   | Hello World!      |
+| 10            | Sohee Moon     | CS               | Hello World!      |
