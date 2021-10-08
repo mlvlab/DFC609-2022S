@@ -38,3 +38,4 @@ Artificial Intelligence Theory and Applications.
 | 20            | Sangyub Kang    | STAT             | Hello World!      |
 | 21            | Sangwook Lee    | CS               | Hello World!      |
 | 22            | Eunhye. Park	  | ICE              | Hello World!      |
+| 23            | Youngsu Ahn     | Mathematics      | Hello World!      |
