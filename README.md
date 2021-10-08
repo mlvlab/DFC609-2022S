@@ -39,3 +39,4 @@ Artificial Intelligence Theory and Applications.
 | 21            | Sangwook Lee    | CS               | Hello World!      |
 | 22            | Eunhye. Park	  | ICE              | Hello World!      |
 | 23            | Youngsu Ahn     | Mathematics      | Hello World!      |
+| 24            | gibok Ahn       | Security/law     | Hello World!      |
