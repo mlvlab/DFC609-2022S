@@ -41,3 +41,4 @@ Artificial Intelligence Theory and Applications.
 | 23            | Youngsu Ahn     | Mathematics      | Hello World!      |
 | 24            | gibok Ahn       | Security/law     | Hello World!      |
 | 25            | mi yeon Park    | Business         | Hello World!      |
+| 26            | Kim jihyun      |  CS              | Hello World!      |
