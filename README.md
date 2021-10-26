@@ -42,3 +42,4 @@ Artificial Intelligence Theory and Applications.
 | 24            | gibok Ahn       | Security/law     | Hello World!      |
 | 25            | mi yeon Park    | Business         | Hello World!      |
 | 26            | Kim jihyun      |  CS              | Hello World!      |
+| 27            | Joon Eum        | CS               | Hello GitHub!     |
