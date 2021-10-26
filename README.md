@@ -14,8 +14,8 @@ Artificial Intelligence Theory and Applications.
 
 # Contributors 
 [Past Classes](https://github.com/mlvlab/DFE604-2020F/blob/master/PastClasses.md)
-| No            | Name            | Department/Major | Message           |
-| ------------- |:---------------:| ----------------:|------------------:|
+| No            | Name           | Department/Major | Message           |
+| ------------- |:--------------:| ----------------:|------------------:|
 | 1             | Hyunwoo J. Kim  | CS               | Hello World!      |
 | 2             | SungHyun Cho    | CS               | Hello World!      |
 | 3         		| Seongyeon Yoo	  | CS		           | Hello World!	     |
@@ -43,3 +43,4 @@ Artificial Intelligence Theory and Applications.
 | 25            | mi yeon Park    | Business         | Hello World!      |
 | 26            | Kim jihyun      |  CS              | Hello World!      |
 | 27            | Joon Eum        | CS               | Hello GitHub!     |
+| 28            | Wonseok    Kim  | Math Education   | Hello World!!     |
