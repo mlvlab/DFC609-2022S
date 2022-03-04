@@ -13,6 +13,10 @@ Big Data Analysis and Practice
 
 
 # Contributors 
+* Hyunwoo J. Kim
+* Chongkeun Paik
+* Sojin Lee
+
 [Past Classes](https://github.com/mlvlab/DFE604-2020F/blob/master/PastClasses.md)
 | No            | Name           | Department/Major | Message           |
 | ------------- |:--------------:| ----------------:|------------------:|
