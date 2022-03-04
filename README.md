@@ -1,5 +1,5 @@
-# DFE604-2021F
-Artificial Intelligence Theory and Applications.
+# DFC609-2022S
+Big Data Analysis and Practice
 
 # Contents
 [1. Data Loading Loan Data from Kaggle](https://github.com/mlvlab/DFE604-2020F/blob/master/1_Data_Loading_Loan_Data_from_Kaggle.ipynb)  
